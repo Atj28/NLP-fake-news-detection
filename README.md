@@ -49,6 +49,3 @@ Several visualizations were created to understand the data and model performance
 
 ---
 
-## 🚀 Setup & Installation
-
-```bash
